@@ -1,16 +1,5 @@
-# animated_fab
+# Animated Floating Action Button
 
-A new Flutter project.
+Preview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![animating fab](https://github.com/user-attachments/assets/3559c395-fe72-4421-bb8d-7d4abd3cc930)
